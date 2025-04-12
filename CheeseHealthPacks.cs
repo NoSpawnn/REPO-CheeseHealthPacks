@@ -99,7 +99,7 @@ public class CheeseHealthPacks : BaseUnityPlugin
     private static readonly Vector3 _meshScaleMedium = new(15f, 15f, 15f);
 
     /* Small */
-    private static readonly Vector3 _colliderSizeSmall = new(0.92f, 0.2f, 1.6f);
+    private static readonly Vector3 _colliderSizeSmall = new(0.92f, 0.15f, 1.6f);
     private static readonly Vector3 _meshPosSmall = new(0, 0.11f, 0f);
     private static readonly Vector3 _meshScaleSmall = new(13f, 13f, 13f);
 
