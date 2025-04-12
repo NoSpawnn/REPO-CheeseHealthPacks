@@ -1,0 +1,9 @@
+{
+    "name": "CheeseHealthPacks",
+    "description": "Turn health packs into appropriately sized pieces of cheese",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/NoSpawnn/REPO-CheeseHealthPacks",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100"
+    ]
+}

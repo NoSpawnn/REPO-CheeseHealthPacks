@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheeseHealthPacks", "CheeseHealthPacks.csproj", "{351BE38D-9CF9-A414-4B88-95D9C48AF95F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{351BE38D-9CF9-A414-4B88-95D9C48AF95F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{351BE38D-9CF9-A414-4B88-95D9C48AF95F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{351BE38D-9CF9-A414-4B88-95D9C48AF95F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{351BE38D-9CF9-A414-4B88-95D9C48AF95F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A1D217D-15B6-42E3-B900-203883BD5D3F}
+	EndGlobalSection
+EndGlobal
